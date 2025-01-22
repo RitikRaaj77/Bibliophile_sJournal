@@ -20,25 +20,34 @@ Bibliophile's Journal is the ultimate tool for book lovers to track, review, and
   <tr>
     <!-- First row: 3 images -->
     <td style="padding: 10px;">
-      <img src="assets/homepage.png" alt="Homepage" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
+      <img src="assets/0.png" alt="Homepage" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"/>
     </td>
     <td style="padding: 10px;">
-      <img src="assets/add_book.png" alt="Add Book Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+      <img src="assets/3.png" alt="Add Book Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </td>
     <td style="padding: 10px;">
-      <img src="assets/review_page.png" alt="Review Page" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+      <img src="assets/6.png" alt="Review Page" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </td>
   </tr>
   <tr>
     <!-- Second row: 3 images -->
     <td style="padding: 10px;">
-      <img src="assets/wishlist.png" alt="Wishlist Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+      <img src="assets/7.png" alt="Wishlist Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </td>
     <td style="padding: 10px;">
-      <img src="assets/search_filter.png" alt="Search and Filter" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+      <img src="assets/5.png" alt="Search and Filter" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </td>
     <td style="padding: 10px;">
-      <img src="assets/settings.png" alt="Settings Page" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+      <img src="assets/4.png" alt="Settings Page" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+    </td>
+  </tr>
+  <tr>
+    <!-- Third row: 3 images -->
+    <td style="padding: 10px;">
+      <img src="assets/8.png" alt="Wishlist Screen" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
+    </td>
+    <td style="padding: 10px;">
+      <img src="assets/0.1.png" alt="Search and Filter" style="width:100%; border-radius:10px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </td>
   </tr>
 </table>
